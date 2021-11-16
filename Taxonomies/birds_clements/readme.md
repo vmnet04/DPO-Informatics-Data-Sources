@@ -1,0 +1,1 @@
+Clements, J. F., T. S. Schulenberg, M. J. Iliff, S. M. Billerman, T. A. Fredericks, J. A. Gerbracht, D. Lepage, B. L. Sullivan, and C. L. Wood. 2021. The eBird/Clements checklist of Birds of the World: v2021. Downloaded from https://www.birds.cornell.edu/clementschecklist/download/
