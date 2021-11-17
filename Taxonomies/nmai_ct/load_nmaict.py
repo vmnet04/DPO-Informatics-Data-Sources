@@ -123,10 +123,5 @@ with open(filename, newline='', encoding='utf-8') as csvfile:
 
 
 
-
-
-
-
 cur.close()
 conn.close()
-
